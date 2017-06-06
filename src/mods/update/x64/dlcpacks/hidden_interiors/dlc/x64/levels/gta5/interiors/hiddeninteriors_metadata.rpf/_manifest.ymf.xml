@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray/>
+  <imapDependencies>
+    <Item>
+      <imapName>hidden_int_placement_interior_v_mp_gar_h_01_milo_</imapName>
+      <itypName>int_mp_gar_h_01</itypName>
+      <packFileName/>
+    </Item>
+    <Item>
+      <imapName>hidden_int_placement_interior_v_int_69_milo_</imapName>
+      <itypName>v_int_69</itypName>
+      <packFileName/>
+    </Item>
+  </imapDependencies>
+  <imapDependencies_2>
+    <Item>
+      <imapName>hidden_int_placement_interior_v_mp_gar_h_01_milo_</imapName>
+      <manifestFlags>INTERIOR_DATA</manifestFlags>
+      <itypDepArray>
+        <Item>int_mp_gar_h_01</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>hidden_int_placement_interior_v_int_69_milo_</imapName>
+      <manifestFlags>INTERIOR_DATA</manifestFlags>
+      <itypDepArray>
+        <Item>v_int_69</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>

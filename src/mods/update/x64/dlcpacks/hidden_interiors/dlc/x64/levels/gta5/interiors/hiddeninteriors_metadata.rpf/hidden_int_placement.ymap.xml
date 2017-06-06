@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapData>
+  <name>hidden_int_placement</name>
+  <parent/>
+  <flags value="2"/>
+  <contentFlags value="16"/>
+  <streamingExtentsMin x="0.00000000" y="0.00000000" z="0.00000000"/>
+  <streamingExtentsMax x="0.00000000" y="0.00000000" z="0.00000000"/>
+  <entitiesExtentsMin x="0.00000000" y="0.00000000" z="0.00000000"/>
+  <entitiesExtentsMax x="0.00000000" y="0.00000000" z="0.00000000"/>
+  <entities/>
+  <containerLods/>
+  <boxOccluders/>
+  <occludeModels/>
+  <physicsDictionaries/>
+  <instancedData>
+    <ImapLink/>
+    <PropInstanceList/>
+    <GrassInstanceList/>
+  </instancedData>
+  <timeCycleModifiers/>
+  <carGenerators/>
+  <LODLightsSOA>
+    <direction/>
+    <falloff/>
+    <falloffExponent/>
+    <timeAndStateFlags/>
+    <hash/>
+    <coneInnerAngle/>
+    <coneOuterAngleOrCapExt/>
+    <coronaIntensity/>
+  </LODLightsSOA>
+  <DistantLODLightsSOA>
+    <position/>
+    <RGBI/>
+    <numStreetLights value="0"/>
+    <category value="0"/>
+  </DistantLODLightsSOA>
+  <block>
+    <version value="0"/>
+    <flags value="0"/>
+    <name>hidden_int_placement</name>
+    <exportedBy>nick.kjellman</exportedBy>
+    <owner/>
+    <time>05 May 2017 22:20</time>
+  </block>
+</CMapData>

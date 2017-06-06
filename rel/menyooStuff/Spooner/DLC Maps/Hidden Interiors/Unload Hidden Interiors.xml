@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SpoonerPlacements>
+	<Note />
+	<AudioFile volume="400" />
+	<ClearDatabase>false</ClearDatabase>
+	<ClearWorld>0</ClearWorld>
+	<ClearMarkers>false</ClearMarkers>
+	<IPLsToLoad load_mp_maps="false" load_sp_maps="false" />
+	<IPLsToRemove>
+		<IPL>hidden_int_placement</IPL>
+		<IPL>hidden_int_placement_interior_v_mp_gar_h_01_milo_</IPL>
+		<IPL>hidden_int_placement_interior_v_int_69_milo_</IPL>
+	</IPLsToRemove>
+	<WeatherToSet></WeatherToSet>
+	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
+</SpoonerPlacements>

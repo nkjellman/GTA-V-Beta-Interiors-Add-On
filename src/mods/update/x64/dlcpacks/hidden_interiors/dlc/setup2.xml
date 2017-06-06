@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_hidden_interiors</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>03/04/2017 23:03:47</timeStamp>
+  <nameHash>hidden_interiors</nameHash>
+  <contentChangeSets />
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_EARLY_ON</NameHash>
+      <ContentChangeSets>
+        <Item>CCS_hidden_interiors_NG_INIT</Item>
+      </ContentChangeSets>
+    </Item>
+    <Item>
+      <NameHash>GROUP_TITLEUPDATE_STARTUP</NameHash>
+      <ContentChangeSets />
+    </Item>
+    <Item>
+      <NameHash>GROUP_UPDATE_STREAMING</NameHash>
+      <ContentChangeSets>
+        <Item>CCS_hidden_interiors_NG_STREAMING</Item>
+        <Item>CCS_hidden_interiors_NG_STREAMING_MAP</Item>
+      </ContentChangeSets>
+    </Item>
+    <Item>
+      <NameHash>GROUP_UPDATE_TEXT</NameHash>
+      <ContentChangeSets>
+        <Item>CCS_hidden_interiors_NG_TEXT</Item>
+      </ContentChangeSets>
+    </Item>
+    <Item>
+      <NameHash>GROUP_UPDATE_DLC_PATCH</NameHash>
+      <ContentChangeSets />
+    </Item>
+    <Item>
+      <NameHash>GROUP_UPDATE_DLC_METADATA</NameHash>
+      <ContentChangeSets />
+    </Item>
+    <Item>
+      <NameHash>GROUP_UPDATE_WEAPON_PATCH</NameHash>
+      <ContentChangeSets />
+    </Item>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets />
+    </Item>
+    <Item>
+      <NameHash>GROUP_ON_DEMAND</NameHash>
+      <ContentChangeSets />
+    </Item>
+  </contentChangeSetGroups>
+  <startupScript />
+  <scriptCallstackSize value="0" />
+  <type>EXTRACONTENT_LEVEL_PACK</type>
+  <order value="48" />
+  <minorOrder value="0" />
+  <isLevelPack value="true" />
+  <dependencyPackHash />
+  <requiredVersion />
+  <subPackCount value="0" />
+</SSetupData>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SpoonerPlacements>
+	<Note />
+	<AudioFile volume="400" />
+	<ClearDatabase>false</ClearDatabase>
+	<ClearWorld>0</ClearWorld>
+	<ClearMarkers>false</ClearMarkers>
+	<IPLsToLoad load_mp_maps="false" load_sp_maps="false">
+		<IPL>hidden_int_placement</IPL>
+		<IPL>hidden_int_placement_interior_v_mp_gar_h_01_milo_</IPL>
+		<IPL>hidden_int_placement_interior_v_int_69_milo_</IPL>
+	</IPLsToLoad>
+	<IPLsToRemove />
+	<WeatherToSet></WeatherToSet>
+	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
+	<Marker>
+		<Name>high_gar_in</Name>
+		<Type>0</Type>
+		<Scale>2.3999989</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>false</RotateContinuously>
+		<AllowVehicles>true</AllowVehicles>
+		<Colour R="102" G="0" B="204" A="0" />
+		<Position X="-99.4357681" Y="824.308228" Z="235.376022" />
+		<Rotation X="0" Y="0" Z="173.664597" />
+		<Destination X="277.966248" Y="-102.423706" Z="-99.2616196" />
+		<DestinationHeading>80</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>high_gar_out</Name>
+		<Type>0</Type>
+		<Scale>2.69999838</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>false</RotateContinuously>
+		<AllowVehicles>true</AllowVehicles>
+		<Colour R="102" G="0" B="204" A="0" />
+		<Position X="282.26651" Y="-102.323708" Z="-99.2616196" />
+		<Rotation X="0" Y="0" Z="271.284943" />
+		<Destination X="-103.93573" Y="826.508179" Z="235.376022" />
+		<DestinationHeading>49</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>fib in</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>false</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="102" G="0" B="204" A="0" />
+		<Position X="136.461166" Y="-769.901611" Z="45.7520523" />
+		<Rotation X="0" Y="0" Z="162.447357" />
+		<Destination X="132.202118" Y="-756.658447" Z="70.6552582" />
+		<DestinationHeading>13</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>fib out</Name>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>false</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="102" G="0" B="204" A="0" />
+		<Position X="132.202118" Y="-756.658447" Z="70.6552582" />
+		<Rotation X="0" Y="0" Z="14.104373" />
+		<Destination X="136.461166" Y="-769.901611" Z="45.7520523" />
+		<DestinationHeading>340</DestinationHeading>
+	</Marker>
+</SpoonerPlacements>

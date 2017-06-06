@@ -1,0 +1,53 @@
+GTA V Leftover Interiors Add On
+
+Description:
+The mod adds two interiors that Rockstar left over in the game files from the beta version of the game/GTA Online updates.
+-The hidden High Life Update Garage: Located in Vinewood Hills
+-The beta version of the FIB interior: Located on the 7th floor of the FIB Building in Downtown Los Santos
+
+The mod does not replace any interiors. They are properly spawned via a DLC ymap/ytyp map and have MLO characteristics. While the location of the interiors may not be exactly where Rockstar may have planned to put them, the placements for everything in the interiors came from Rockstar's code in the ytyp files.
+
+
+How to install:
+1. Be sure you installed the mods listed below so you can access the interiors with ease. 
+2. In OpenIV go to "mods\update\update.rpf\common\data" and add this line to "dlclist.xml".
+		<Item>dlcpacks:\hidden_interiors\</Item>
+3. Place the "hidden_interiors" folder found in this archive into "mods\update\x64\dlcpacks" in your GTA V directory.
+4. Place the MenyooStuff folder into your GTA directory.
+
+
+Highly sugested mods:
+Open Interiors [STRONGLY RECOMMENDED]: https://www.gta5-mods.com/scripts/open-all-interiors
+Why: The markers to enter the FIB building are in the FIB Lobby by the elevators on the right. You will need Open Interiors to access this.
+
+Menyoo [STRONGLY RECOMMENDED]: https://www.gta5-mods.com/scripts/menyoo-pc-sp
+Why: You need this to load the IPL's. I set them up to be disabled by default so they do not cause any conflicts. Additionally, the markers to enter/exit the interiors are loaded with Menyoo.
+
+Simple Trainer [OPTIONAL]: https://www.gta5-mods.com/scripts/simple-trainer-for-gtav
+Why: If you use the radio emitters feature in the config file, you can get radio in the garage added in this mod.
+
+
+How to find the interiors:
+-First load any of the Menyoo files I included. If you are using World Enhancement, you can load that file, which includes the interiors in this mod, as well as everything else from World Enhancement.
+-Check the images I included. Additionally, you can teleport directly to them if you load the right file in Menyoo.
+
+
+Credits:
+*nkjellman
+   -Placed the interiors
+   -Fixed up FIB Building exterior collision so it could fit in the building without invisible walls.
+   -Created DLC Pack
+   -Original finder of Garage Interior
+*TaazR
+   -Created Open Interiors
+   -Original finder of FIB Interior
+*GamingDamned
+   -Offered additional assistance with FIB Building exterior collision
+*OpenIV Team
+   -Tool allowed me to view/edit ymaps/ytyps, and RPF's in general.
+*3Doomer
+   -GIMS Evo
+*Mafins
+   -Created Menyoo which allowed me to load the interiors, make entrance/exit markers, and Spooner helped me position the interior.
+*Rockstar Games
+   -For creating GTA V and for leaving these interiors in the game files.

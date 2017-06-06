@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CDataFileMgr__ContentsOfDataFileXml>
+	<disabledFiles />
+	<includedXmlFiles />
+	<dataFiles>
+	<Item>
+		<filename>dlc_hidden_interiors:/%PLATFORM%/levels/gta5/interiors/hiddeninteriors_metadata.rpf</filename>
+		<fileType>RPF_FILE</fileType>
+		<overlay value="false" />
+		<disabled value="false" />
+		<persistent value="false" />
+	</Item>
+	<Item>
+		<filename>dlc_hidden_interiors:/%PLATFORM%/levels/gta5/interiors/int_mp_gar_h_01.rpf</filename>
+		<fileType>RPF_FILE</fileType>
+		<overlay value="false" />
+		<disabled value="false" />
+		<persistent value="false" />
+	</Item>
+	<Item>
+		<filename>dlc_hidden_interiors:/%PLATFORM%/levels/gta5/interiors/v_int_69.rpf</filename>
+		<fileType>RPF_FILE</fileType>
+		<overlay value="false" />
+		<disabled value="false" />
+		<persistent value="false" />
+	</Item>
+	<Item>
+		<filename>dlc_hidden_interiors:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_05.rpf</filename>
+		<fileType>RPF_FILE</fileType>
+		<locked value="true"/>
+		<disabled value="true"/>
+		<persistent value="true"/>
+		<overlay value="true"/>
+	</Item>
+	</dataFiles>
+	<contentChangeSets>
+		<Item>
+			<changeSetName>CCS_hidden_interiors_NG_STREAMING_MAP</changeSetName>
+			<filesToEnable>
+				<Item>dlc_hidden_interiors:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_05.rpf</Item>
+			</filesToEnable>
+			<executionConditions>
+				<activeChangesetConditions>
+				</activeChangesetConditions>
+				<genericConditions>$level=MO_JIM_L11</genericConditions>
+			</executionConditions>
+		</Item>
+	</contentChangeSets>
+	<patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>
